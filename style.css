@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* card 1 start */
+
+/* navbar start */
+    .navstyle{
+        background-color: #343C82 ;
+        
+    } 
+    .menustyle{
+        margin: 0px 20px;
+        
+    }
+     ul li a{
+        color: white !important;
+        margin-bottom: -18px;
+        
+    }
+     /* navbar end */
+     
+     /* offer start */
+     
+     .modifystyle{
+         background-color: #E2EDFF ;
+         padding: 25px 0px;
+        }
+        .modifystyle h4{
+            margin-left: 15px;
+            color: #343C82;
+
+        }
+        .formstyle{
+            margin-left: 280px !important;
+        }
+        .formstyle label{color: #343C82;
+            font-size: 17px;
+            font-weight: bold; 
+
+        }
+        .btnstyle{
+            border-radius: 50px;
+            background-color: #343C82;
+            margin: 5px auto;
+            
+        }
+     
+     /* offer end */
+     /* footer start */
+    .footerstyle ul{
+         margin: 0px 50px;
+     }
+      li{
+         padding: 10px 14px !important;
+        
+     }
+     /* footer end */
+     /* card 1 end */
+
+     /* card 2 start */
+     .box{
+         width: 95%;
+         margin: 0px auto;
+         height: 200px;
+         border: 1px solid gray;
+
+
+     }
+
+     /* card 2 end */
+     .parastyle{
+         color: #343C82; 
+         font-weight: bold;
+         padding: 10px;
+     }
+     .sorrystyle{
+         padding: 15px;
+     }
+     .withdrsdbtnstyle{
+        border-radius: 50px;
+        background-color: #343C82;
+        margin: 15px 20px;
+
+     }
+
+
+     /* card 3 start */
+     .paracardstyle{
+        color: #343C82; 
+        font-weight: bold;
+        padding: 0px 10px;
+
+     }
+     .sorrycardstyle{
+         padding: 0px 25px !important;
+
+     }
+     .youstyle{
+         color: orange ;
+         font-weight: bold;
+        padding: 0px 10px;
+     }
+     /* card 3 end */
+
+
+
+/* modal start */
+     .firstcardfooterstyle{
+         margin: 600px 0px 50px 0px;
+     }
+     /* modal end */
+
+
+
